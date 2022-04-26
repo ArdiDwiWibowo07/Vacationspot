@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vacation spot</string>
+    <string name="spot1">Kute Beach</string>
+    <string name="spot2">Everest Mountain</string>
+    <string name="spot3">Taj Mahal</string>
+    <string name="spot4">Eifel Tower</string>
+    // ======== Nation ========
+    <string name="nation1">Indonesia</string>
+    <string name="nation2">Nepal</string>
+    <string name="nation3">India</string>
+    <string name="nation4">France</string>
+</resources>
